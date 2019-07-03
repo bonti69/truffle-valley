@@ -437,4 +437,11 @@ left: 15%;
     text-align: center;
     width: 100%;
   }
+  
+  h1 {
+  position: relative;
+  top: 40%;
+  font-size: 1rem;
+  font-family: Pacifico;
+}
 }
