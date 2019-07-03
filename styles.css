@@ -426,7 +426,7 @@ left: 15%;
 
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 640px) {
   h2 {
     position: absolute;
     font-size: 2rem;
