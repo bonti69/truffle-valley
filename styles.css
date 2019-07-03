@@ -429,7 +429,7 @@ left: 15%;
 @media screen and (max-width: 640px) {
   h2 {
     position: absolute;
-    font-size: 2rem;
+    font-size: 3rem;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -437,15 +437,36 @@ left: 15%;
     text-align: center;
     width: 100%;
   }
-  
-  h1 {
-  position: relative;
-  top: 40%;
+
+.truffle-calendar {
+  width: 80%;
+}
+
+h1 {
+position: relative;
+top: 40%;
+font-size: 4rem;
+font-family: Pacifico;
+}
+
+.title-section {
+  font-size: 2rem;
+}
+
+.subtitle-section {
+  font-size: 1.8rem;
+}
+
+.main-text {
+  line-height: 1.4;
   font-size: 1rem;
-  font-family: Pacifico;
 }
-  
- .truffle-calendar {
-  width: 60%;
+
+.languages-footer {
+  position: relative;
+  /* display: inline-block; */
+  left: 70%;
+  margin-bottom: 1%;
 }
+
 }
