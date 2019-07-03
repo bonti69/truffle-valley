@@ -410,3 +410,31 @@ left: 15%;
   top: 90%;
   left: 15%;
 }
+
+
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/* SMARTPHONE */
+/*  */
+/*  */
+/*  */
+/*  */
+
+
+
+@media screen and (max-width: 320px) {
+  h2 {
+    position: absolute;
+    font-size: 2rem;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-family: Pacifico;
+    text-align: center;
+    width: 100%;
+  }
+}
