@@ -469,4 +469,26 @@ font-family: Pacifico;
   margin-bottom: 1%;
 }
 
+.prod-subtitle {
+  margin-top: 8%;
+  margin-bottom: 4%;
+}
+
+.contact-box {
+  width: 90%;
+}
+
+.padding {
+  padding: 0 10% 0 10%;
+}
+
+.submit-button {
+  font-size: 1rem;
+}
+
+input {
+  width: 60%;
+}
+
+
 }
